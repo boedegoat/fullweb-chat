@@ -1,12 +1,14 @@
 # FullWebChat
 
-FullWebChat is an AI-powered web application that allows you to crawl entire website, process its content, and have interactive conversations about that content using RAG (Retrieval-Augmented Generation). You can ask questions about any crawled website, and the system will provide accurate answers based on the site's content.
+FullWebChat is an AI-powered application that enables you to have intelligent conversations about any website's content. By crawling and processing entire websites, it creates a knowledge base that you can query through natural language. Built on RAG (Retrieval-Augmented Generation) technology, FullWebChat delivers accurate, contextually relevant answers based on the actual content of crawled sites.
 
 ## Features
 
--   **Entire Website Crawling**: Automatically extract content from any websites entirely using sitemap URLs
--   **Vector Search**: Find relevant content quickly using semantic search with pgvector
--   **Interactive UI**: User-friendly Streamlit interface for website management and chat
+-   **Entire Website Crawling**: Automatically extract and process content from any website using sitemap URLs
+-   **Vector Search**: Find relevant information quickly using semantic search powered by pgvector
+-   **Interactive Chat**: Have natural conversations about website content with AI-powered responses
+-   **User-friendly Interface**: Clean Streamlit UI for easy website management and querying
+-   **Multi-website Support**: Manage and query multiple websites from a single interface
 
 ## Installation
 
